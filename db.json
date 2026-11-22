@@ -1,0 +1,33 @@
+{
+  "users": {
+    "sakshamsinghnaiya08@gmail.com": {
+      "email": "sakshamsinghnaiya08@gmail.com",
+      "createdAt": "2026-11-22T11:52:08.732Z"
+    }
+  },
+  "otps": {
+    "sakshamsinghaniya08@gmail.com": {
+      "hash": "53e8283115276a172f81c514ed77c3706fd4e72e761c9b5c4332cdb02aea042e",
+      "expires": 1795348390685,
+      "attempts": 0,
+      "sentAt": 1795348090685
+    },
+    "sakshamsinghaniya@gmail.com": {
+      "hash": "0578d333eb70fc3dca66bf7ae24e50d4b38c79a142fc03ee61ede20b035a66da",
+      "expires": 1795348453421,
+      "attempts": 0,
+      "sentAt": 1795348153421
+    }
+  },
+  "bookmarks": [
+    {
+      "email": "sakshamsinghnaiya08@gmail.com",
+      "hackathonId": "10",
+      "title": "Software Engineer Intern",
+      "deadline": "2026-11-27T18:29:00.000Z",
+      "url": "https://unstop.com/internships/software-engineer-intern-coy-1809143",
+      "sent": [],
+      "createdAt": "2026-11-22T12:00:57.884Z"
+    }
+  ]
+}
